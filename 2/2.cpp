@@ -53,6 +53,6 @@ int main(){
 
     lake1.setData(name, depth, area); // seting same variable to lake class
     lake1.aboutlake(); //reading class lake default values 
-
+    cout<<"i changed this line "<<endl;
     return 0;
 }

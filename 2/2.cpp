@@ -46,13 +46,5 @@ int main(){
     float depth, area; // creating wariable depth and area of lake  
 
 
-    name = "Riwa";
-    depth = 3782;
-    area = 45.7;
-
-
-    lake1.setData(name, depth, area); // seting same variable to lake class
-    lake1.aboutlake(); //reading class lake default values 
-
     return 0;
 }
